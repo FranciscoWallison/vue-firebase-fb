@@ -28,7 +28,7 @@ let config = {
   messagingSenderId: ""
 };
 firebase.initializeApp(config);
-´´´
+```
 
 ## Ativar o provedor de login
 ```
