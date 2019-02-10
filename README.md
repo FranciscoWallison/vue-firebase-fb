@@ -18,7 +18,7 @@ $ npm install
 ´´´
 
 ## [LEMBRAR DE CRIAR O PROJETO NO FIREBASE](https://console.firebase.google.com/project/crafrro/authentication/users)
-´´´
+```ruby
 let config = {
   apiKey: "",
   authDomain: "",
