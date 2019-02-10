@@ -4,7 +4,7 @@
 ```
 node -v
 ```
-## Instalar [vue/cli] (https://cli.vuejs.org/guide/)
+## Instalar [vue/cli](https://cli.vuejs.org/guide/)
 ```
 $ npm install -g @vue/cli
 ```
