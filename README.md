@@ -34,3 +34,7 @@ firebase.initializeApp(config);
 ```
 # Provedores de login > Método de login > E-mail/senha - Ativado
 ```
+## Testar [projeto](http://localhost:8080/#/)
+```
+npm run serve
+```
