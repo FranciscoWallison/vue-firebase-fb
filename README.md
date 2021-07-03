@@ -1,6 +1,6 @@
 # vue-firebase-fb
 
-## Verifica se já foi instalado [node js](https://nodejs.org/en/)
+# Verificar se já foi instalado [node js](https://nodejs.org/en/)
 ```
 node -v
 ```
