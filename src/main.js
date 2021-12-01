@@ -13,12 +13,12 @@ let app = ''
  * SUAS CONFIGURAÇÕES DO FIREBASE
  */  
   var config = {
-    apiKey: "AIzaSyAzi95pn60IA8CH3Knw_AUKrwnLWF3c9Vc",
-    authDomain: "vue-fireabe-fb.firebaseapp.com",
-    databaseURL: "https://vue-fireabe-fb.firebaseio.com",
-    projectId: "vue-fireabe-fb",
-    storageBucket: "vue-fireabe-fb.appspot.com",
-    messagingSenderId: "306576921495"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
   firebase.initializeApp(config);
 
